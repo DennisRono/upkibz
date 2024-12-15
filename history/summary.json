@@ -1,6 +1,6 @@
 [
   {
-    "name": "DennisKibet",
+    "name": "Dennis Kibet",
     "url": "https://denniskibet.com",
     "icon": "https://icons.duckduckgo.com/ip3/denniskibet.com.ico",
     "slug": "dennis-kibet",
@@ -10,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 144,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "time": 169,
+    "timeDay": 169,
+    "timeWeek": 169,
+    "timeMonth": 169,
+    "timeYear": 169,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "nullchemy",
+    "url": "https://nullchemy.com",
+    "icon": "https://icons.duckduckgo.com/ip3/nullchemy.com.ico",
+    "slug": "nullchemy",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 130,
+    "timeDay": 130,
+    "timeWeek": 130,
+    "timeMonth": 130,
+    "timeYear": 130,
     "dailyMinutesDown": {}
   }
 ]
