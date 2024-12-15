@@ -3,8 +3,10 @@ owner: DennisRono # Your GitHub organization or username, where this repository 
 repo: upkibz # The name of this repository
 
 sites:
-  - name: DennisKibet
+  - name: Dennis Kibet
     url: https://denniskibet.com
+  - name: nullchemy
+    url: https://nullchemy.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
