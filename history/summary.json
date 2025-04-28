@@ -22,19 +22,19 @@
     "url": "https://nullchemy.com",
     "icon": "https://icons.duckduckgo.com/ip3/nullchemy.com.ico",
     "slug": "nullchemy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 188,
-    "timeDay": 159,
-    "timeWeek": 212,
-    "timeMonth": 205,
+    "timeDay": 185,
+    "timeWeek": 215,
+    "timeMonth": 206,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2025-04-28": 0
+      "2025-04-28": 12
     }
   }
 ]
