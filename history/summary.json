@@ -4,18 +4,20 @@
     "url": "https://denniskibet.com",
     "icon": "https://icons.duckduckgo.com/ip3/denniskibet.com.ico",
     "slug": "dennis-kibet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 150,
-    "timeWeek": 183,
-    "timeMonth": 206,
+    "timeDay": 157,
+    "timeWeek": 181,
+    "timeMonth": 204,
     "timeYear": 189,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-03": 0
+    }
   },
   {
     "name": "nullchemy",
